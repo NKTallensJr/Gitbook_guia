@@ -44,6 +44,6 @@ Em função da definição acima, verifica-se como elementos da conceituação d
 * medem a evolução, o rendimento, a performance de um objeto (atividade, processo, projeto, organização, plano ou política pública);
 * o objeto medido é relevante para a organização que o mede, embora o mesmo objeto possa não ser para outra organização, ou ainda, ser considerado crítico para uma terceira;
 * a medição ocorre por meio de parâmetros numéricos, sendo objetivos e inconfundíveis;
-* a disposição das informações medidas pode se dar de forma quantitativa (por meio de números) ou qualitativa (valendo-se da conversão de números em categorias);
+* a disposição das informações medidas pode se dar de forma quantitativa (por meio de números) ou qualitativa (valendo-se da conversão de números em categorias).
 
 Uma vez que os indicadores de desempenho foram definidos, nas subseções seguintes tem-se a sua classificação por tipologia; a apresentação dos atributos que os caracterizam individualmente, e a disposição dos critérios utilizados para aferir a qualidade e validar os indicadores produzidos.&#x20;
